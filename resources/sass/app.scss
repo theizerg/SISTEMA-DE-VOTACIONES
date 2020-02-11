@@ -1,0 +1,32 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+$fa-font-path: "../webfonts";
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Admin-lte 3
+@import '~admin-lte/dist/css/adminlte.css';
+
+@import '~@fortawesome/fontawesome-free/css/all.min.css';
+
+
+@import "~icheck/skins/square/blue.css";
+
+
+@import "~toastr/toastr.scss";
+
+// pace-progress
+@import "~@dlghq/pace-progress/themes/blue/pace-theme-minimal.css";
+
+
+
+
+
+
+
+
